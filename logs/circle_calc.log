@@ -1,0 +1,11 @@
+2023-08-25 14:47:24,481.circle_calc.INFO ==================================================
+2023-08-25 14:47:24,481.circle_calc.INFO Today is 2023-08-25 at 02:47 PM
+2023-08-25 14:47:24,519.circle_calc.INFO Running on: nt Windows 10
+2023-08-25 14:47:24,520.circle_calc.INFO Python version:  3.8.10
+2023-08-25 14:47:24,520.circle_calc.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0
+2023-08-25 14:47:24,521.circle_calc.INFO Working dir: C:\Users\reedb\Documents\NW University\datafun-01-getting-started
+2023-08-25 14:47:24,521.circle_calc.INFO ==================================================
+2023-08-25 14:47:30,930.circle_calc.INFO The area of a circle with radius 5.0 is 78.53981633974483.
+2023-08-25 14:47:30,930.circle_calc.INFO Eww... that's a lot of decimal places - tmi!
+2023-08-25 14:47:30,931.circle_calc.INFO The area of a circle with radius 5.0 is 78.54.
+2023-08-25 14:47:30,932.circle_calc.INFO Much better! (After you fix it.)

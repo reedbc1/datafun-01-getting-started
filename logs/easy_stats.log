@@ -1,0 +1,20 @@
+2023-08-25 14:48:43,023.easy_stats.INFO ==================================================
+2023-08-25 14:48:43,026.easy_stats.INFO Today is 2023-08-25 at 02:48 PM
+2023-08-25 14:48:43,066.easy_stats.INFO Running on: nt Windows 10
+2023-08-25 14:48:43,067.easy_stats.INFO Python version:  3.8.10
+2023-08-25 14:48:43,067.easy_stats.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0
+2023-08-25 14:48:43,068.easy_stats.INFO Working dir: C:\Users\reedb\Documents\NW University\datafun-01-getting-started
+2023-08-25 14:48:43,069.easy_stats.INFO ==================================================
+2023-08-25 14:48:43,166.easy_stats.INFO uni_data = [105, 129, 87, 86, 111, 111, 89, 81, 108, 92, 110, 100, 75, 105, 103, 109, 76, 119, 99, 91, 103, 129, 106, 101, 84, 111, 74, 87, 86, 103, 103, 106, 86, 111, 75, 87, 102, 121, 111, 88, 89, 101, 106, 95, 103, 107, 101, 81, 109, 104]
+2023-08-25 14:48:43,172.easy_stats.INFO mean   = 99.12
+2023-08-25 14:48:43,172.easy_stats.INFO median = 102.50
+2023-08-25 14:48:43,173.easy_stats.INFO mode   = 111.00
+2023-08-25 14:48:43,174.easy_stats.INFO var    = 179.25061224489795
+2023-08-25 14:48:43,175.easy_stats.INFO stdev  = 13.388450703681062
+2023-08-25 14:48:43,175.easy_stats.INFO lowest = 74
+2023-08-25 14:48:43,176.easy_stats.INFO highest= 129
+2023-08-25 14:48:43,179.easy_stats.WARNING Correlation requires Python version 3.10 or greater.
+2023-08-25 14:48:43,180.easy_stats.WARNING Your version is 3.8
+2023-08-25 14:48:43,181.easy_stats.ERROR Please update Python to 3.10 or greater
+2023-08-25 14:48:43,181.easy_stats.ERROR or use View / Command Palette / Python: Select Interpreter
+2023-08-25 14:48:43,182.easy_stats.ERROR to get a newer one.
